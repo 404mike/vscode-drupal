@@ -1,0 +1,26 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.inlineSuggest.enabled": true,
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/.DS_Store": false
+    },
+    "php.suggest.basic": false,
+    "files.associations": {
+        "*.inc": "php",
+        "*.module": "php",
+        "*.install": "php",
+        "*.theme": "php",
+        "*.profile": "php",
+        "*.tpl.php": "php",
+        "*.test": "php",
+        "*.php": "php",
+        "*.info": "ini"
+      },
+      
+    "intelephense.environment.documentRoot": "/Users/cyw/Sites/cyw",
+    "intelephense.environment.includePaths": ["/Users/cyw/Sites/cyw"],
+    "intelephense.files.associations": ["*.php", "*.phtml", "*.module", "*.inc"]
+}
